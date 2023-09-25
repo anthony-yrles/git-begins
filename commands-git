@@ -4,3 +4,5 @@ Les 3 commandes de push sont :
 - git add . (pour tous les fichiers) ou git add "nom-du-fichier"
 - git commit -m "non explicite du commit"
 - git push
+
+Commande pour pull : "git pull"
