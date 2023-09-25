@@ -6,3 +6,10 @@ Les 3 commandes de push sont :
 - git push
 
 Commande pour pull : "git pull"
+
+Comment créer une nouvelle branche:
+Il suffit d'utiliser la commande "git branch nom-de-la-branche" içi "git branch add-create-branch-command"
+
+Afin de se déplacer sur la branche on utilisera "git checkout nom-de-la-branche" ici "git checkout add-create-branch-command"
+
+Petit plus qualité, après avoir push les modifications de la branche nous pourrions retourner sur le main grace à "git checkout main" et récupérer les modifications graçe a git merge add-create-branch-command
