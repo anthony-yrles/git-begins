@@ -1,0 +1,6 @@
+Cloner un repository: git clone "nom du repository" içi git clone https://github.com/anthony-yrles/git-begins.git
+
+Les 3 commandes de push sont :
+- git add . (pour tous les fichiers) ou git add "nom-du-fichier"
+- git commit -m "non explicite du commit"
+- git push
